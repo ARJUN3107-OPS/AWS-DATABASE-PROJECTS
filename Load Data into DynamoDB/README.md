@@ -1,17 +1,21 @@
-Load and Query DynamoDB Tables
+# Load and Query DynamoDB Tables
 
-Objective
-The goal of this project was to explore how to use Amazon DynamoDB to create tables, load data, run queries, and manage transactions for efficient data handling.
+## Objective  
+This project demonstrates how to create DynamoDB tables, load data, run queries, and manage transactions for efficient data handling.
 
-Steps
-1. Create DynamoDB Tables: Set up DynamoDB tables for storing data.
-2. Load Data: Insert data into the created tables.
-3. Run Queries: Query data from DynamoDB using partition and sort keys.
-4. Transactions: Use transactions to update multiple tables simultaneously, ensuring data consistency.
+## Steps  
+1. **Create DynamoDB Tables**  
+   - Set up tables for structured data storage.  
+2. **Load Data**  
+   - Insert sample data into the tables.  
+3. **Run Queries**  
+   - Retrieve data using partition and sort keys.  
+4. **Transactions**  
+   - Update multiple tables simultaneously to maintain data consistency.  
 
-Things Learned
-- DynamoDB Basics: Learned how to set up tables and load data.
-- Querying: Got hands-on experience querying data with partition and sort keys.
-- Transactions: Understood how to use transactions to ensure consistency when updating multiple tables at once.
+## Things Learned  
+- **DynamoDB Basics** – Setting up tables and loading data.  
+- **Querying** – Running queries using partition and sort keys.  
+- **Transactions** – Ensuring consistency with multi-table updates.  
 
-This project helped me gain a deeper understanding of DynamoDB and its features.
+This project deepened my understanding of DynamoDB’s capabilities.  
